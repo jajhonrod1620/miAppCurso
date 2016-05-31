@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="btnNaranja">#f48a09</color>
+    <color name="azul">#214fd9</color>
+    <color name="blanco">#ffffff</color>
+    <color name="txt_rojo">#af0606</color>
+    <color name="verde">#70b15a</color>
+    <color name="amarillo">#fffffb00</color>
+    <color name="rojo">#ffd40002</color>
+    <color name="gris1">#ff878787</color>
+</resources>

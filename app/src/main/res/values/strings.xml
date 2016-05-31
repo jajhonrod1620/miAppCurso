@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">miAppCurso</string>
+    <string name="intentos">Intentos</string>
+    <string name="_10">10</string>
+    <string name="incorrectos">incorrectos</string>
+    <string name="Incorrectos">Incorrectos</string>
+    <string name="_4">4</string>
+    <string name="nombre">nombre</string>
+    <string name="email" >email</string>
+    <string name="clave" >clave</string>
+    <string name="clave2" >confirmar clave</string>
+    <string name="nick">nick</string>
+</resources>
